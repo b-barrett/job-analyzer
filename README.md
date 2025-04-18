@@ -117,15 +117,3 @@ You can customize the tool by modifying:
 
 - Python 3.6+
 - Standard libraries: argparse, re, csv, collections
-
-## License
-
-[Specify your license here]
-
-## Contributing
-
-[Your contribution guidelines]
-
-## Contact
-
-[Your contact information]
